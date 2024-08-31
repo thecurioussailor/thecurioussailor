@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [tsizzle](https://tsizzle.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js, Angular**
+- 🌱 I’m currently learning **Next.js, Web 3, Solana**
 
 - 💬 Ask me about **React, JavaScript, TypeScript, Express.js, Node.js**
 
