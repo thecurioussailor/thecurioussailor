@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Web 3, Solana**
 
-- 💬 Ask me about **React, JavaScript, TypeScript, Express.js, Node.js**
+- 💬 Ask me about **React.js, Express.js, Node.js, JavaScript, TypeScript**
 
 - 📫 How to reach me **ashu.sagar111@gmail.com**
 
