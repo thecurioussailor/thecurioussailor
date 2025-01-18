@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [tsizzle](https://tsizzle.vercel.app/)
+- 🔭 I’m currently working on [socket-talk]()
 
 - 🌱 I’m currently learning **Next.js, Web 3, Solana**
 
