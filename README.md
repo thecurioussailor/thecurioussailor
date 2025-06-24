@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Sagar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi, I'm Ashutosh 👋</h1>
+<h3 align="center">Full stack Developer | Learning Solana & Rust</h3>
 
 - 🔭 I’m currently working on [socket-talk]()
-
-- 🌱 I’m currently learning **Next.js, Web 3, Solana**
-
-- 💬 Ask me about **React.js, Express.js, Node.js, JavaScript, TypeScript**
 
 - 📫 How to reach me **ashu.sagar111@gmail.com**
 
