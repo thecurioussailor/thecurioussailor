@@ -12,9 +12,9 @@
 ### 🚀 About Me
 
 - 🔭 Currently building a **DEX + TipLink Clone on Solana**
-- 💡 Passionate about building **SaaS apps, MVPs, and tools**
-- 🧠 Exploring **Rust**, **Solana**, and Web3 development
-- 💬 Ask me about **MERN**, **Next.js**, **PostgreSQL**, or **Docker**
+- 🧠 Learning **Rust**, **Solana**, and **Web3 development**
+- 💡 Love building **SaaS**, **MVPs**, and **internal tools**
+- ☁️ Comfortable with **AWS**, **Kubernetes**, **Docker**, and **CI/CD**
 - 📫 Reach me at: **ashu.sagar111@gmail.com**
 
 ---
@@ -22,12 +22,12 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,docker,linux,tailwind,html,css,java,c,cpp,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,tailwind,docker,kubernetes,aws,linux,git" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thecurioussailor&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Ashutosh's GitHub stats" />
