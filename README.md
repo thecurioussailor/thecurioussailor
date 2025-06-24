@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Ashutosh 👋</h1>
 <h3 align="center">Full stack Developer | Learning Solana & Rust</h3>
 
-- 🔭 I’m currently working on [socket-talk]()
-
-- 📫 How to reach me **ashu.sagar111@gmail.com**
+💡 Currently building: DEX + Tiplink Clone on Solana  
+🌐 https://ashutoshsagar.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
