@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Exploring Solana & Rust</h3>
 
 <p align="center">
-  <a href="https://ashutoshsagar.in" target="_blank">🌐 Portfolio</a> •
+  <a href="https://ashutoshsagar.com" target="_blank">🌐 Portfolio</a> •
   <a href="https://twitter.com/sagar11ashutosh" target="_blank">Twitter</a> •
   <a href="https://linkedin.com/in/ashutosh-sagar-4b2612185/" target="_blank">LinkedIn</a>
 </p>
