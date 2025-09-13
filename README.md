@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building a **CEX + TipLink Clone on Solana**
+- 🔭 Currently building a **CEX https://trueman.ashutoshsagar.com + TipLink Clone on Solana**
 - 🧠 Learning **Rust**, **Solana**, and **Web3 development**
 - 💡 Love building **SaaS**, **MVPs**, and **internal tools**
 - ☁️ Comfortable with **AWS**, **Kubernetes**, **Docker**, and **CI/CD**
