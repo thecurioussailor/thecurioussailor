@@ -11,6 +11,16 @@
 
 ### 🚀 About Me
 
+- 🔭 Currently building:  
+  <p align="left">
+    <a href="https://trueman.ashutoshsagar.com" target="_blank">
+      <img src="https://via.placeholder.com/200x100.png?text=CEX+Project" alt="CEX Project" width="200"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://bonfire.ashutoshsagar.com" target="_blank">
+      <img src="https://via.placeholder.com/200x100.png?text=TipLink+Clone" alt="TipLink Clone" width="200"/>
+    </a>
+  </p>
 - 🔭 Currently building a **CEX https://trueman.ashutoshsagar.com + TipLink Clone on Solana**
 - 🧠 Learning **Rust**, **Solana**, and **Web3 development**
 - 💡 Love building **SaaS**, **MVPs**, and **internal tools**
