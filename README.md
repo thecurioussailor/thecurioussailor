@@ -10,10 +10,9 @@
 ---
 
 ### 🚀 About Me
- - 🔭 Currently building (live but under active development):
-     -- <a href="https://trueman.ashutoshsagar.com" target="_blank">Trueman Centralised Exchange in Rust</a>
-     -- <a href="https://bonfire.ashutoshsagar.com" target="_blank">Bonfire - Web Based Wallet on Solana</a>
-
+- 🔭 Currently building (live but under active development):
+  - <a href="https://trueman.ashutoshsagar.com" target="_blank">Trueman Centralised Exchange in Rust</a>
+  - <a href="https://bonfire.ashutoshsagar.com" target="_blank">Bonfire - Web Based Wallet on Solana</a>
 - 🧠 Learning **Rust**, **Solana**, and **Web3 development**
 - 💡 Love building **SaaS**, **MVPs**, and **internal tools**
 - ☁️ Comfortable with **AWS**, **Kubernetes**, **Docker**, and **CI/CD**
