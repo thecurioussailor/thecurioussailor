@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- Completed Projects (core functionality done, improving further):
+- ✅ Live Projects (core functionality completed):
   - <a href="https://trueman.ashutoshsagar.com" target="_blank">Trueman Centralised Exchange in Rust</a>
   - <a href="https://bonfire.ashutoshsagar.com" target="_blank">Bonfire - Web Based Wallet on Solana</a>
 - 🔭 Currently building (live but under active development):
