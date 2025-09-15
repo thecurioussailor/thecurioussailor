@@ -14,8 +14,8 @@
   - <a href="https://trueman.ashutoshsagar.com" target="_blank">Trueman Centralised Exchange in Rust</a>
   - <a href="https://bonfire.ashutoshsagar.com" target="_blank">Bonfire - Web Based Wallet on Solana</a>
 - 🔭 Currently building (live but under active development):
-  - <a href="https://trueman.ashutoshsagar.com" target="_blank">Coin Flip on Solana</a>
-  - <a href="https://bonfire.ashutoshsagar.com" target="_blank">Dex</a>
+  - <a href="https://github.com/thecurioussailor/coinfliponsol" target="_blank">Coin Flip on Solana</a>
+  - <a href="" target="_blank">Dex</a>
 - 🧠 Learning **Rust**, **Solana**, and **Web3 development**
 - 💡 Love building **SaaS**, **MVPs**, and **internal tools**
 - ☁️ Comfortable with **AWS**, **Kubernetes**, **Docker**, and **CI/CD**
