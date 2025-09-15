@@ -12,6 +12,10 @@
 ### 🚀 About Me
 
 - 🔭 Currently building:  
+  - [CEX](https://trueman.ashutoshsagar.com){:target="_blank"}  
+  - [TipLink Clone on Solana](https://bonfire.ashutoshsagar.com){:target="_blank"}
+
+- 🔭 Currently building:  
   <p align="left">
     <a href="https://trueman.ashutoshsagar.com" target="_blank">
       <img src="https://via.placeholder.com/200x100.png?text=CEX+Project" alt="CEX Project" width="200"/>
