@@ -4,7 +4,8 @@
 <p align="center">
   <a href="https://ashutoshsagar.com" target="_blank">🌐 Portfolio</a> •
   <a href="https://twitter.com/sagar11ashutosh" target="_blank">Twitter</a> •
-  <a href="https://linkedin.com/in/ashutosh-sagar-4b2612185/" target="_blank">LinkedIn</a>
+  <a href="https://linkedin.com/in/ashutosh-sagar-4b2612185/" target="_blank">LinkedIn</a> •
+  <a>+917542098120</a>
 </p>
 
 ---
