@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sagar</h1>
-<h3 align="center">Full Stack Developer | Exploring Solana & Rust</h3>
+<h3 align="center">Full Stack Developer | Building on Solana & Rust</h3>
 
 <p align="center">
   <a href="https://ashutoshsagar.com" target="_blank">🌐 Portfolio</a> •
