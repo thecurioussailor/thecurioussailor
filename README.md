@@ -49,8 +49,7 @@ Non-custodial wallet using Threshold Signatures (TSS) & MPC.
 - SOL transfers & token swaps  
 - Designed for secure key orchestration  
 
-**GitHub:** https://github.com/thecurioussailor/bonfire  
-**Live:** https://bonfire.ashutoshsagar.com  
+**GitHub:** [https://github.com/thecurioussailor/bonfire](https://github.com/thecurioussailor/tiplink-clone)
 
 ---
 
