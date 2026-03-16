@@ -1,86 +1,76 @@
-<h1 align="center">Hi, I'm Ashutosh 👋</h1>
+## Hi, I'm Ashutosh 👋
 
-<p align="center">
-Systems Engineer • Distributed Systems • Real-Time Infrastructure
-</p>
+📍 India ↔ Remote | ⚙️ Systems Engineer | 🚀 Builder of distributed systems
 
-<p align="center">
-Rust • TypeScript • Node.js • PostgreSQL • Redis • Docker • Solana
-</p>
+`Rust` `TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` `Solana` `React` `Next.js`
 
-<p align="center">
-<a href="https://ashutoshsagar.com">Portfolio</a> •
-<a href="https://linkedin.com/in/ashutosh-sagar-4b2612185/">LinkedIn</a> •
-<a href="https://twitter.com/sagar11ashutosh">Twitter</a> •
-<a href="mailto:ashu.sagar111@gmail.com">Email</a>
-</p>
+Building high-performance backend systems, real-time infrastructure, and developer tools.
+
+Most of my work focuses on **distributed systems, trading engines, AI automation tools, and Web3 infrastructure.**
 
 ---
 
-### About
+### 🌐 oneclickopenclaw.com *(closed source)*
 
-I design and build systems from scratch — focused on **performance, correctness, and scalability**.
-
-My work spans:
-
-• distributed backend systems  
-• real-time infrastructure  
-• secure key architectures  
-• developer tools and SaaS platforms  
-
-Comfortable owning systems **end-to-end → architecture → implementation → deployment**.
+AI SaaS platform to deploy OpenClaw instances connected to Telegram bots in under 60 seconds.
 
 ---
 
 # Current Projects
 
-🚀 **[Trueman](https://github.com/thecurioussailor/trueman)** — Rust crypto exchange backend with custom order matching engine  
+🧠 **Trueman** — Rust centralized crypto exchange with custom order matching engine  
+https://github.com/thecurioussailor/trueman
 
-🔥 **[Bonfire](https://github.com/thecurioussailor/tiplink-clone)** — MPC-secured Solana wallet with threshold signatures  
+🔥 **Bonfire** — MPC-secured Solana wallet with threshold signature architecture  
+https://github.com/thecurioussailor/tiplink-clone
 
-⚡ **[OneClickOpenClaw](https://github.com/thecurioussailor/oneclickopenclaw)** — SaaS platform to deploy OpenClaw AI agents via Telegram  
+⚡ **OneClickOpenClaw** — AI agent provisioning platform for Telegram bots  
+https://github.com/thecurioussailor/oneclickopenclaw
 
-💬 **[SocketTalk](https://github.com/thecurioussailor/sockettalk)** — Real-time messaging infrastructure using WebSockets & Redis  
+💬 **SocketTalk** — Real-time messaging infrastructure using WebSockets and Redis  
+https://github.com/thecurioussailor/sockettalk
 
-📱 **Sports Fantasy DApp** — React Native + Solana mobile fantasy platform *(private repo)*  
+📱 **Fantasy DApp** — React Native + Solana mobile fantasy sports application *(private repo)*
 
 ---
 
-# Engineering Focus
+# Systems & Experiments
 
-**Systems & Backend**
+📊 **Options Trading Engine** — simulated order book and options market infrastructure  
 
-• Distributed systems design  
-• Real-time architectures  
-• Rust backend engineering  
-• Async services & message queues  
-• WebSocket infrastructure  
+🔐 **Threshold Key Infrastructure** — experiments with distributed key management  
 
-**Web & Mobile**
+🌐 **Realtime Event Systems** — message queues and WebSocket streaming pipelines  
 
-• React / Next.js  
-• React Native  
-• SaaS platforms & dashboards  
-• Wallet integrations (Solana)
+🧪 **Rust Systems Experiments** — performance-focused backend experiments
 
-**Infrastructure**
+---
 
-• Docker  
-• Kubernetes  
-• AWS  
-• CI/CD  
-• PostgreSQL • Redis • Linux
+# What I'm Doing
+
+⚙️ Building distributed backend systems in Rust and TypeScript  
+
+🤖 Exploring AI developer tools and automation workflows  
+
+🚀 Turning experiments into production-ready systems  
+
+📚 Studying distributed systems and trading infrastructure
 
 ---
 
 # Philosophy
 
-• Design for correctness before abstraction  
-• Prefer simple systems that scale  
-• Ship fast, iterate deliberately  
+> Build systems that scale before they break.
+
+I build tools to solve real problems — focusing on **performance, correctness, and reliability**.
+
+Prefer simple architectures, observable systems, and fast iteration cycles.
 
 ---
 
-<p align="center">
-Open to Remote Backend / Systems / Infrastructure Roles
-</p>
+# Connect
+
+Portfolio: https://ashutoshsagar.com  
+LinkedIn: https://linkedin.com/in/ashutosh-sagar-4b2612185/  
+Twitter: https://twitter.com/sagar11ashutosh  
+Email: ashu.sagar111@gmail.com
