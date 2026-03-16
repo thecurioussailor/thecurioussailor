@@ -1,7 +1,11 @@
-<h1 align="center">Ashutosh Sagar</h1>
+<h1 align="center">Hi, I'm Ashutosh 👋</h1>
+
 <p align="center">
-Systems Engineer • Distributed Systems • Real-Time Infrastructure  
-Shipping production systems across Backend, Web & Mobile
+Systems Engineer • Distributed Systems • Real-Time Infrastructure
+</p>
+
+<p align="center">
+Rust • TypeScript • Node.js • PostgreSQL • Redis • Docker • Solana
 </p>
 
 <p align="center">
@@ -13,123 +17,70 @@ Shipping production systems across Backend, Web & Mobile
 
 ---
 
-## About
+### About
 
-I design and build systems from scratch — with a focus on performance, correctness, and scalability.
+I design and build systems from scratch — focused on **performance, correctness, and scalability**.
 
-My work spans distributed backend systems, secure key architectures, real-time infrastructure, and product engineering across web and mobile.
+My work spans:
 
-Comfortable owning architecture end-to-end: system design → implementation → deployment.
+• distributed backend systems  
+• real-time infrastructure  
+• secure key architectures  
+• developer tools and SaaS platforms  
 
----
-
-# Selected Work
-
-## 🔹 Trueman — Centralized Crypto Exchange (Rust)
-
-High-performance exchange backend built in Rust.
-
-- Custom order matching engine  
-- In-memory order books  
-- Concurrent request handling  
-- WebSocket-based real-time market streams  
-- Structured service architecture  
-
-**GitHub:** https://github.com/thecurioussailor/trueman  
-**Live:** https://trueman.ashutoshsagar.com  
+Comfortable owning systems **end-to-end → architecture → implementation → deployment**.
 
 ---
 
-## 🔹 Bonfire — MPC-Secured Solana Web Wallet
+# Current Projects
 
-Non-custodial wallet using Threshold Signatures (TSS) & MPC.
+🚀 **[Trueman](https://github.com/thecurioussailor/trueman)** — Rust crypto exchange backend with custom order matching engine  
 
-- No single server holds a full private key  
-- Secure transaction signing flow  
-- SOL transfers & token swaps  
-- Designed for secure key orchestration  
+🔥 **[Bonfire](https://github.com/thecurioussailor/tiplink-clone)** — MPC-secured Solana wallet with threshold signatures  
 
-**GitHub:** [https://github.com/thecurioussailor/bonfire](https://github.com/thecurioussailor/tiplink-clone)
+⚡ **[OneClickOpenClaw](https://github.com/thecurioussailor/oneclickopenclaw)** — SaaS platform to deploy OpenClaw AI agents via Telegram  
 
----
+💬 **[SocketTalk](https://github.com/thecurioussailor/sockettalk)** — Real-time messaging infrastructure using WebSockets & Redis  
 
-## 🔹 OneClickOpenClaw — AI SaaS Provisioning Platform
-
-Deploy OpenClaw instances connected to Telegram bots in under 60 seconds.
-
-- Automated provisioning pipeline  
-- Payment integration  
-- Instance lifecycle management  
-- Infrastructure orchestration  
-
-**GitHub:** https://github.com/thecurioussailor/oneclickopenclaw  
-**Live:** https://oneclickopenclaw.com  
-
----
-
-## 🔹 Sports Fantasy DApp (React Native + Solana)
-
-Mobile fantasy application built while working at Unboxed for SuperPhoenix DAO.
-
-- Built with React Native  
-- Integrated on-chain USDC payments (Solana)  
-- Wallet connection & transaction handling  
-- Bracket creation & contest logic  
-- Shipped to DApp Store  
-
-*(Private repo — details available upon request)*
-
----
-
-## 🔹 SocketTalk — Real-Time Messaging Infrastructure
-
-Microservices-based real-time chat system.
-
-- WebSocket-based communication  
-- Redis-backed async message persistence  
-- Queue-driven architecture  
-- Designed for high throughput & scalability  
-
-**GitHub:** https://github.com/thecurioussailor/sockettalk  
+📱 **Sports Fantasy DApp** — React Native + Solana mobile fantasy platform *(private repo)*  
 
 ---
 
 # Engineering Focus
 
-### Backend & Systems
-- Distributed Systems Design  
-- Real-Time Architectures  
-- Concurrent Backend Development  
-- Rust & TypeScript Backend Engineering  
-- WebSocket Systems  
-- Async Processing Pipelines  
+**Systems & Backend**
 
-### Web & Mobile
-- React / Next.js  
-- React Native  
-- Framer Motion  
-- SaaS dashboards & internal tools  
-- Wallet integrations (Solana)
+• Distributed systems design  
+• Real-time architectures  
+• Rust backend engineering  
+• Async services & message queues  
+• WebSocket infrastructure  
 
-### Infrastructure
-- Docker  
-- Kubernetes  
-- AWS  
-- CI/CD pipelines  
-- PostgreSQL, Redis  
-- Linux-native development  
+**Web & Mobile**
+
+• React / Next.js  
+• React Native  
+• SaaS platforms & dashboards  
+• Wallet integrations (Solana)
+
+**Infrastructure**
+
+• Docker  
+• Kubernetes  
+• AWS  
+• CI/CD  
+• PostgreSQL • Redis • Linux
 
 ---
 
-# Engineering Philosophy
+# Philosophy
 
-- Design for correctness before abstraction  
-- Keep systems observable and composable  
-- Prefer simple architectures that scale  
-- Ship fast, iterate deliberately  
+• Design for correctness before abstraction  
+• Prefer simple systems that scale  
+• Ship fast, iterate deliberately  
 
 ---
 
 <p align="center">
-Open to Remote • Backend • Infra • Systems • Mobile • Full Stack Roles
+Open to Remote Backend / Systems / Infrastructure Roles
 </p>
