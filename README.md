@@ -28,7 +28,7 @@ https://github.com/thecurioussailor/tiplink-clone
 https://github.com/thecurioussailor/openclaw-mvp-be
 
 💬 **SocketTalk** — Real-time messaging infrastructure using WebSockets and Redis  
-https://github.com/thecurioussailor/sockettalk
+https://github.com/thecurioussailor/socket-talk
 
 📱 **Fantasy DApp** — React Native + Solana mobile fantasy sports application *(private repo)*
 
