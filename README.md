@@ -19,13 +19,13 @@ AI SaaS platform to deploy OpenClaw instances connected to Telegram bots in unde
 # Current Projects
 
 🧠 **Trueman** — Rust centralized crypto exchange with custom order matching engine  
-https://github.com/thecurioussailor/trueman
+https://github.com/thecurioussailor/trueman2
 
 🔥 **Bonfire** — MPC-secured Solana wallet with threshold signature architecture  
 https://github.com/thecurioussailor/tiplink-clone
 
 ⚡ **OneClickOpenClaw** — AI agent provisioning platform for Telegram bots  
-https://github.com/thecurioussailor/oneclickopenclaw
+https://github.com/thecurioussailor/openclaw-mvp-be
 
 💬 **SocketTalk** — Real-time messaging infrastructure using WebSockets and Redis  
 https://github.com/thecurioussailor/sockettalk
