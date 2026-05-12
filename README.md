@@ -1,76 +1,105 @@
-## Hi, I'm Ashutosh 👋
+# Hi, I'm Ashutosh 👋
 
-📍 India ↔ Remote | ⚙️ Systems Engineer | 🚀 Builder of distributed systems
+📍 India ↔ Remote | ⚙️ Rust & Solana Systems Engineer
 
-`Rust` `TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` `Solana` `React` `Next.js`
+`Rust` `Solana` `TypeScript` `Redis` `PostgreSQL` `Docker` `Node.js` `WebSocket` `React` `Next.js`
 
-Building high-performance backend systems, real-time infrastructure, and developer tools.
+Building trading infrastructure, wallet systems, and distributed real-time applications.
 
-Most of my work focuses on **distributed systems, trading engines, AI automation tools, and Web3 infrastructure.**
+Most of my work focuses on:
+
+* matching engines & orderbook systems
+* MPC wallet infrastructure
+* event-driven backend architecture
+* realtime communication systems
+* Solana applications & tooling
+* low-latency backend infrastructure
 
 ---
 
-### 🌐 oneclickopenclaw.com *(closed source)*
+# Projects
 
-AI SaaS platform to deploy OpenClaw instances connected to Telegram bots in under 60 seconds.
+## 🧠 Trueman — Rust-Based Exchange Infrastructure
+
+Centralized exchange architecture with a custom CLOB matching engine, concurrent order execution, Redis Pub/Sub, and real-time orderbook synchronization.
+
+**Tech:** Rust, Redis, PostgreSQL, Diesel ORM, WebSocket, Next.js
+
+https://github.com/thecurioussailor/trueman-cex
 
 ---
 
-# Current Projects
+## 🔥 Bonfire — MPC Wallet Infrastructure for Solana
 
-🧠 **Trueman** — Rust centralized crypto exchange with custom order matching engine  
-https://github.com/thecurioussailor/trueman2
+Threshold-signature wallet infrastructure built using Rust, Actix Web, Redis, and distributed signing coordination.
 
-🔥 **Bonfire** — MPC-secured Solana wallet with threshold signature architecture  
-https://github.com/thecurioussailor/tiplink-clone
+**Tech:** Rust, Solana, Redis, Actix Web, Next.js
 
-⚡ **OneClickOpenClaw** — AI agent provisioning platform for Telegram bots  
-https://github.com/thecurioussailor/openclaw-mvp-be
+https://github.com/thecurioussailor/bonfire-mpc
 
-💬 **SocketTalk** — Real-time messaging infrastructure using WebSockets and Redis  
+---
+
+## 📱 Clash of Titans — Solana Mobile Fantasy DApp
+
+Production React Native + Solana esports prediction application shipped to the Seeker Dapp Store with wallet-based payments and tournament systems.
+
+**Tech:** React Native, Solana Mobile Stack, Supabase, TypeScript
+
+*(Private Repository)*
+
+---
+
+## 💬 SocketTalk — Realtime Messaging Infrastructure
+
+Realtime messaging backend using WebSockets, Redis streams, and event-driven communication pipelines.
+
+**Tech:** Node.js, Redis, WebSocket, PostgreSQL
+
 https://github.com/thecurioussailor/socket-talk
 
-📱 **Fantasy DApp** — React Native + Solana mobile fantasy sports application *(private repo)*
+---
+
+## ⚡ OneClickOpenClaw *(Closed Source)*
+
+AI infrastructure platform for provisioning Telegram-connected OpenClaw instances in under 60 seconds.
+
+**Tech:** Node.js, Docker, TypeScript, Redis
+
+https://github.com/thecurioussailor/openclaw-mvp-be
 
 ---
 
 # Systems & Experiments
 
-📊 **Options Trading Engine** — simulated order book and options market infrastructure  
+📊 Options trading infrastructure and simulated orderbook systems
 
-🔐 **Threshold Key Infrastructure** — experiments with distributed key management  
+🔐 Distributed key management and threshold-signature experiments
 
-🌐 **Realtime Event Systems** — message queues and WebSocket streaming pipelines  
+🌐 Realtime event streaming pipelines and WebSocket systems
 
-🧪 **Rust Systems Experiments** — performance-focused backend experiments
-
----
-
-# What I'm Doing
-
-⚙️ Building distributed backend systems in Rust and TypeScript  
-
-🤖 Exploring AI developer tools and automation workflows  
-
-🚀 Turning experiments into production-ready systems  
-
-📚 Studying distributed systems and trading infrastructure
+🧪 Performance-focused backend systems experiments in Rust
 
 ---
 
 # Philosophy
 
-> Build systems that scale before they break.
+> Build systems that remain reliable under scale, concurrency, and real-world usage.
 
-I build tools to solve real problems — focusing on **performance, correctness, and reliability**.
+Interested in infrastructure-focused applications with strong emphasis on:
 
-Prefer simple architectures, observable systems, and fast iteration cycles.
+* performance
+* correctness
+* observability
+* developer experience
+
+Prefer simple architectures, fast iteration cycles, and production-oriented engineering.
 
 ---
 
 # Connect
 
-Portfolio: https://ashutoshsagar.com  
-LinkedIn: https://linkedin.com/in/ashutosh-sagar-4b2612185/  
-Twitter: https://twitter.com/sagar11ashutosh  
-Email: ashu.sagar111@gmail.com
+Portfolio: https://ashutoshsagar.com
+
+LinkedIn: https://linkedin.com/in/ashutosh-sagar-4b2612185/
+
+Twitter/X: https://twitter.com/sagar11ashutosh
