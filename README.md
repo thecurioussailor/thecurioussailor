@@ -69,6 +69,50 @@ https://github.com/thecurioussailor/openclaw-mvp-be
 
 ---
 
+# Solana Journey
+
+A collection of smaller Solana-focused projects and protocol experiments while learning deeper Solana internals and onchain architecture patterns.
+
+## 🪙 SPL Tokens & NFTs
+
+Learning project exploring SPL token creation, NFT minting flows, metadata handling, associated token accounts, and token operations on Solana.
+
+https://github.com/thecurioussailor/spl-tokens-and-nft
+
+---
+
+## 🔐 Vault Programs
+
+Exploring PDA-based vault architecture, deposits, withdrawals, account ownership, and secure asset management patterns.
+
+*(Coming Soon)*
+
+---
+
+## 🤝 Escrow Programs
+
+Implementing escrow flows, token exchanges, PDA authorities, and instruction validation patterns in Solana programs.
+
+*(Coming Soon)*
+
+---
+
+## 🌊 Automated Market Makers (AMMs)
+
+Experimenting with liquidity pools, swaps, invariant formulas, and DeFi primitives on Solana.
+
+*(Coming Soon)*
+
+---
+
+## ⚓ Anchor Experiments
+
+Small projects exploring CPIs, account constraints, events, and advanced Anchor development patterns.
+
+*(Coming Soon)*
+
+---
+
 # Systems & Experiments
 
 📊 Options trading infrastructure and simulated orderbook systems
