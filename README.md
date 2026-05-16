@@ -85,7 +85,7 @@ https://github.com/thecurioussailor/spl-tokens-and-nft
 
 Exploring PDA-based vault architecture, deposits, withdrawals, account ownership, and secure asset management patterns.
 
-*(Coming Soon)*
+https://github.com/thecurioussailor/sol-vault-on-solana-anchor
 
 ---
 
