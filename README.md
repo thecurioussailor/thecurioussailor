@@ -93,7 +93,7 @@ https://github.com/thecurioussailor/sol-vault-on-solana-anchor
 
 Implementing escrow flows, token exchanges, PDA authorities, and instruction validation patterns in Solana programs.
 
-*(Coming Soon)*
+https://github.com/thecurioussailor/anchor-escrow-q2-2026
 
 ---
 
