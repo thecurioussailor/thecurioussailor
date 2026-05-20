@@ -101,7 +101,7 @@ https://github.com/thecurioussailor/anchor-escrow-q2-2026
 
 Experimenting with liquidity pools, swaps, invariant formulas, and DeFi primitives on Solana.
 
-*(Coming Soon)*
+https://github.com/thecurioussailor/anchor-amm-q2-2026
 
 ---
 
