@@ -11,14 +11,14 @@ Building trading systems, wallet infrastructure, and real-time applications.
 - [Bonfire](https://github.com/thecurioussailor/bonfire-mpc) → MPC-secured Solana wallet infrastructure built with distributed signing.
 - [Clash of Titans](YOUR_URL) → Fantasy sports mobile application with wallet-native payments on Solana.
 - [SocketTalk](https://github.com/thecurioussailor/socket-talk) → Real-time messaging platform powered by WebSockets and Redis.
-- [OneClickOpenClaw](YOUR_URL) → Deploy Telegram AI agents in under 60 seconds.
+- [OneClickOpenClaw](https://www.oneclickopenclaw.com/) → Deploy Telegram AI agents in under 60 seconds.
 
 ## Solana
 
-- [SPL Tokens & NFTs](YOUR_URL) → Token creation, NFT minting, and SPL token operations.
-- [Vault Program](YOUR_URL) → PDA-based vault architecture for secure asset management.
-- [Escrow Program](YOUR_URL) → Trustless token exchange using escrow accounts and PDA authorities.
-- [AMM Program](YOUR_URL) → Automated market maker implementation with liquidity pools and swaps.
+- [SPL Tokens & NFTs](https://github.com/thecurioussailor/spl-tokens-and-nft) → Token creation, NFT minting, and SPL token operations.
+- [Vault Program](https://github.com/thecurioussailor/vault) → PDA-based vault architecture for secure asset management.
+- [Escrow Program](https://github.com/thecurioussailor/escrow) → Trustless token exchange using escrow accounts and PDA authorities.
+- [AMM Program](https://github.com/thecurioussailor/anchor-amm-q2-2026) → Automated market maker implementation with liquidity pools and swaps.
 
 ## Links
 
