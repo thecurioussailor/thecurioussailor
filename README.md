@@ -14,11 +14,13 @@ Building trading systems, wallet infrastructure, and real-time applications.
 - [OneClickOpenClaw](https://www.oneclickopenclaw.com/) → Deploy Telegram AI agents in under 60 seconds.
 
 ## Solana
-
-- [SPL Tokens & NFTs](https://github.com/thecurioussailor/spl-tokens-and-nft) → Token creation, NFT minting, and SPL token operations.
-- [Vault Program](https://github.com/thecurioussailor/vault) → PDA-based vault architecture for secure asset management.
-- [Escrow Program](https://github.com/thecurioussailor/escrow) → Trustless token exchange using escrow accounts and PDA authorities.
+- [Core Staking](https://github.com/thecurioussailor/anchor-core-staking) → NFT staking protocol built with Anchor and Metaplex Core.
+- [Marketplace Core](https://github.com/thecurioussailor/anchor-marketplace-core) → NFT marketplace with listing and purchase flows.
 - [AMM Program](https://github.com/thecurioussailor/anchor-amm-q2-2026) → Automated market maker implementation with liquidity pools and swaps.
+- [Escrow Program](https://github.com/thecurioussailor/escrow) → Trustless token exchange using escrow accounts and PDA authorities.
+- [Vault Program](https://github.com/thecurioussailor/vault) → PDA-based vault architecture for secure asset management.
+- [Instruction Introspection](https://github.com/thecurioussailor/anchor-1-dice-game) → Transaction validation patterns using Solana instruction introspection.
+- [SPL Tokens & NFTs](https://github.com/thecurioussailor/spl-tokens-and-nft) → Token creation, NFT minting, and SPL token operations.
 
 ## Links
 
