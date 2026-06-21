@@ -22,6 +22,6 @@ Building trading systems, wallet infrastructure, and real-time applications.
 
 ## Links
 
-- Portfolio
-- LinkedIn
-- X
+- [Portfolio](https://ashutoshsagar.com/)
+- [LinkedIn](https://www.linkedin.com/in/ashutosh-sagar-4b2612185/)
+- [X](https://x.com/sagar11ashutosh)
