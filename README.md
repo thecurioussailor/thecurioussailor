@@ -4,6 +4,10 @@ Rust & Solana Engineer.
 
 Building trading systems, wallet infrastructure, and real-time applications.
 
+## 🚀 Featured Startup
+
+- **[ChatRelay](https://trychatrelay.com)** — An AI customer support assistant for your website. Automatically answers visitors 24/7 and seamlessly hands off to human agents.
+
 ## Projects
 
 - [Divvy](https://github.com/thecurioussailor/divvy-capstone) → On-chain revenue splitting protocol for Solana with claim-based distributions.
