@@ -4,7 +4,7 @@ Rust & Solana Engineer.
 
 Building trading systems, wallet infrastructure, and real-time applications.
 
-## 🚀 Featured Startup
+## Featured Startup
 
 - **[ChatRelay](https://trychatrelay.com)** — An AI customer support assistant for your website. Automatically answers visitors 24/7 and seamlessly hands off to human agents.
 
